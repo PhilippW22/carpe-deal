@@ -6,7 +6,13 @@ Fullstack-Web-App für tagesaktuelle Gastro-Deals in Berlin. Restaurants können
 
 > Der Produktionscode ist privat. Dieses Repository enthält ausgewählte, vereinfachte Codeausschnitte und technische Einblicke in die Umsetzung.
 
-![Carpe Deal Demo](./assets/demo.gif)
+---
+
+## 📱 Demo
+
+<div align="center">
+  <img src="./assets/demo.gif" width="250" alt="Carpe Deal Demo" />
+</div>
 
 _Restaurant-Perspektive: Deal erstellen und veröffentlichen → anschließend die Darstellung des veröffentlichten Deals für Nutzer._
 
@@ -235,7 +241,9 @@ Externe Services werden von der Kernfunktion getrennt. Eine fehlgeschlagene Tele
 
 Die Deal-Karte basiert auf **React Leaflet und MapTiler** und verbindet die geografische Darstellung mit der Deal-Liste.
 
-![Carpe Deal Karte mit aktuellen Restaurant-Deals](./assets/map.png)
+<div align="center">
+  <img src="./assets/map.png" width="250" alt="Carpe Deal Karte mit aktuellen Restaurant-Deals" />
+</div>
 
 _Nutzer-Perspektive: Aktuelle Deals werden direkt bei den jeweiligen Restaurants auf der Karte angezeigt._
 
